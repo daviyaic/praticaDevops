@@ -1,0 +1,10 @@
+Como revisor, segue algumas análises a serem feitas no código:
+
+REVIEW
+
+[ ] Todas as funcionalidades foram implementadas conforme o previsto? 
+[ ] Existem casos de uso não tratados ou exceções não realizadas? 
+[ x ] Os nomes de variáveis e funções são significativos? 
+[ ] O código evita operações desnecessárias e otimizações prematuras? 
+[ x ] A arquitetura do código permite fácil modificação? 
+[ x ] O código é fácil de testar e validar? 
